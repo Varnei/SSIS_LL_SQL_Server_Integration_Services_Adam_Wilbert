@@ -1,0 +1,5 @@
+SELECT DISTINCT [Supplier Key]
+      ,[Supplier]
+      ,[Category]
+      ,[Primary Contact]
+  FROM [WideWorldImportersDW].[Dimension].[Supplier]

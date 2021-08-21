@@ -1,0 +1,5 @@
+SELECT [Stock Item Key]
+      ,[Stock Item]
+      ,[Color]
+  FROM [WideWorldImportersDW].[Dimension].[Stock Item]
+  WHERE [Color] = 
